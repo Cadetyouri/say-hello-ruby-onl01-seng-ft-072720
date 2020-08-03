@@ -1,3 +1,3 @@
-say_hello("Hello !")
-
-some_func
+def say_hello (name = "Ruby Programmer")
+  puts "Hello #{name}!"
+end
